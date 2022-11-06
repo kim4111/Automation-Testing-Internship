@@ -54,5 +54,3 @@ This system is compatible with:
 | 4        | Edge    |
 | 5        | Opera   |
 
-## Contact
-
