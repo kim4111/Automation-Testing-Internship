@@ -56,4 +56,3 @@ This system is compatible with:
 
 ## Contact
 
-Please contact [Stephen Sharp](mailto:ssharp@metispro.com) or [Arnav Kaushik](mailto:akaushik@metispro.com) for any questions regarding this project. Be sure to add tickets in the [MetisCollab project](https://collab.metispro.com/project/view/63/) for any tasks you need help with.
